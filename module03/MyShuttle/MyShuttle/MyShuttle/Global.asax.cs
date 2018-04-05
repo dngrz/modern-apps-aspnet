@@ -18,10 +18,10 @@ namespace MyShuttle
             BundleConfig.RegisterBundles(BundleTable.Bundles);
         }
 
-        protected void Application_BeginRequest()
-        {
-            Response.Write("Hello World!");
-            Response.End();
-        }
+        //protected void Application_BeginRequest()
+        //{
+        //    Response.Write("Hello World!");
+        //    Response.End();
+        //}
     }
 }

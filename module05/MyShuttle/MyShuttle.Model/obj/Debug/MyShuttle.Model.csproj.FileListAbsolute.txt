@@ -1,0 +1,13 @@
+C:\labs\modern-apps-aspnet\module05\MyShuttle\MyShuttle.Model\bin\Debug\MyShuttle.Model.dll.config
+C:\labs\modern-apps-aspnet\module05\MyShuttle\MyShuttle.Model\bin\Debug\MyShuttle.Model.dll
+C:\labs\modern-apps-aspnet\module05\MyShuttle\MyShuttle.Model\bin\Debug\MyShuttle.Model.pdb
+C:\labs\modern-apps-aspnet\module05\MyShuttle\MyShuttle.Model\bin\Debug\EntityFramework.dll
+C:\labs\modern-apps-aspnet\module05\MyShuttle\MyShuttle.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\labs\modern-apps-aspnet\module05\MyShuttle\MyShuttle.Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\labs\modern-apps-aspnet\module05\MyShuttle\MyShuttle.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\labs\modern-apps-aspnet\module05\MyShuttle\MyShuttle.Model\bin\Debug\EntityFramework.xml
+C:\labs\modern-apps-aspnet\module05\MyShuttle\MyShuttle.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\labs\modern-apps-aspnet\module05\MyShuttle\MyShuttle.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\labs\modern-apps-aspnet\module05\MyShuttle\MyShuttle.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\labs\modern-apps-aspnet\module05\MyShuttle\MyShuttle.Model\obj\Debug\MyShuttle.Model.dll
+C:\labs\modern-apps-aspnet\module05\MyShuttle\MyShuttle.Model\obj\Debug\MyShuttle.Model.pdb

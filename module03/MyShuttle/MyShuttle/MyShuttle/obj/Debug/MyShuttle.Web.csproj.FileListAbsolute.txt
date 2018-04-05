@@ -105,3 +105,5 @@ C:\labs\modern-apps-aspnet\module03\MyShuttle\MyShuttle\MyShuttle\bin\Microsoft.
 C:\labs\modern-apps-aspnet\module03\MyShuttle\MyShuttle\MyShuttle\obj\Debug\MyShuttle.Web.csprojResolveAssemblyReference.cache
 C:\labs\modern-apps-aspnet\module03\MyShuttle\MyShuttle\MyShuttle\obj\Debug\MyShuttle.dll
 C:\labs\modern-apps-aspnet\module03\MyShuttle\MyShuttle\MyShuttle\obj\Debug\MyShuttle.pdb
+C:\labs\modern-apps-aspnet\module03\MyShuttle\MyShuttle\MyShuttle\bin\EntityFramework.SqlServer.dll
+C:\labs\modern-apps-aspnet\module03\MyShuttle\MyShuttle\MyShuttle\bin\EntityFramework.SqlServer.xml
